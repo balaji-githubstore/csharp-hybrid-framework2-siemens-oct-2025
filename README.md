@@ -42,6 +42,10 @@ Selenium WebDriver such as:
 **Repository:** [Python-Pytest](https://github.com/balaji-githubstore/python-pytest-siemens-oct-2025.git)
 - Python and Pytest Framework Design Concepts  
 
+**Repository:** [Python-Pytest-Full-Configuration] (https://github.com/balaji-githubstore/hybrid-framework-python-tatatech_feb_2024.git)
+- Python and Pytest Framework Configuration with full details for reference  
+
+
 - ## 🧪 C# Framework - Last Day Re-design of C# Hybrid Framework with appsetting.json & extent report config.
 **Repository:** [C#-hybrid-framework-OpenEMR](https://github.com/balaji-githubstore/csharp-hybrid-framework2-siemens-oct-2025.git)
 | Branch | Description |
